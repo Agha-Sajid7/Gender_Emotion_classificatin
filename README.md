@@ -31,3 +31,5 @@ Use data augmentation techniques to improve generalization.
 Employ ensemble methods for enhanced accuracy.
 
 This project demonstrates the application of transfer learning in dual-task prediction while identifying areas for further research and optimization
+**Note**
+To use the model directly, use the saved project.zip and To use the codes in the model, use the code.zip folder
