@@ -11,18 +11,17 @@ These tasks have various applications, including human-computer interaction, sen
 ## Datasets Used
 ### Emotion Prediction:
 **FANE Dataset**
-Dataset is split into 70% training, 15% validation, and 15% testing.
-
+Dataset is split into **80%** training, **20%** validation
 ### Gender Prediction:
 **UTK Dataset**
-Dataset is split into 70% training, 15% validation, and 15% testing.
+Dataset is split into **80%** training, **20%** validation
 
 ## Key Features
 Utilized VGG16, a pretrained deep learning model, for feature extraction and classification.
 Fine-tuned hyperparameters and optimized the model on both datasets.
 
 ## Achieved:
-**50%**accuracy in emotion prediction.
+**50%** accuracy in emotion prediction.
 **80** accuracy in gender prediction.
 Highlighted strengths and limitations of the VGG16 architecture for these tasks.
 
